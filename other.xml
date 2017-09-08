@@ -1,0 +1,19 @@
+<application>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://aasaglobal.atlassian.net">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfe2dfcfdfd8dfc7dfcfdfc6dfc3dfc3dfc4df9bdf9d</password>
+      <option name="inCloud" value="true" />
+      <option name="jiraVersion" value="1001.0.0-SNAPSHOT" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>priit.perna@aasaglobal.com</username>
+    </JIRA>
+  </component>
+</application>
