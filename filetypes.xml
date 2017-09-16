@@ -1,0 +1,7 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="db_update" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
