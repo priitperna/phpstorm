@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Poland" />
-    <option name="defaultScopeName" value="Poland" />
-    <option name="SEARCH_SCOPE" value="Poland" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -22,13 +22,14 @@
       <mask>index</mask>
       <mask>index*</mask>
       <mask>*</mask>
+      <mask>*.p</mask>
+      <mask>*.s</mask>
+      <mask>*.sql</mask>
+      <mask>*.ph</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sql</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
+      <mask>*.xsd</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
