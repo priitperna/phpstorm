@@ -1,13 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="NO-INDIA" />
+    <option name="defaultScopeName" value="NO-INDIA" />
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*export*" />
+    <option name="SEARCH_SCOPE" value="NO-INDIA" />
+    <option name="FILE_MASK" value="export*" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -35,8 +34,9 @@
       <mask>*inst*</mask>
       <mask>*.php</mask>
       <mask>*pika*</mask>
-      <mask>export*</mask>
       <mask>*export*</mask>
+      <mask>*export_codes*</mask>
+      <mask>export*</mask>
     </recentFileMasks>
   </component>
 </application>
