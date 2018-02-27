@@ -5,9 +5,8 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="NO-INDIA" />
-    <option name="FILE_MASK" value="export*" />
+    <option name="FILE_MASK" value="media*" />
     <recentFileMasks>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -37,6 +36,7 @@
       <mask>*export*</mask>
       <mask>*export_codes*</mask>
       <mask>export*</mask>
+      <mask>media*</mask>
     </recentFileMasks>
   </component>
 </application>
