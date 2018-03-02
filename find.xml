@@ -5,9 +5,8 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="NO-INDIA" />
-    <option name="FILE_MASK" value="stat*" />
+    <option name="FILE_MASK" value="stat.php" />
     <recentFileMasks>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>po</mask>
@@ -37,6 +36,7 @@
       <mask>export*</mask>
       <mask>media*</mask>
       <mask>stat*</mask>
+      <mask>stat.php</mask>
     </recentFileMasks>
   </component>
 </application>
