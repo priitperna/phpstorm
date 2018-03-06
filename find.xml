@@ -3,10 +3,12 @@
     <option name="customScope" value="NO-INDIA" />
     <option name="defaultScopeName" value="NO-INDIA" />
     <option name="fromCursor" value="false" />
+    <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="NO-INDIA" />
+    <option name="FILE_MASK" value="*report*" />
     <recentFileMasks>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>po</mask>
       <mask>pol</mask>
@@ -36,6 +38,7 @@
       <mask>media*</mask>
       <mask>stat*</mask>
       <mask>stat.php</mask>
+      <mask>*report*</mask>
     </recentFileMasks>
   </component>
 </application>
