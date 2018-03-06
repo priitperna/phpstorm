@@ -1,12 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="NO-INDIA" />
     <option name="defaultScopeName" value="NO-INDIA" />
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="NO-INDIA" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>po</mask>
@@ -29,7 +28,6 @@
       <mask>*.js</mask>
       <mask>*credit*</mask>
       <mask>*inst*</mask>
-      <mask>*.php</mask>
       <mask>*pika*</mask>
       <mask>*export*</mask>
       <mask>*export_codes*</mask>
@@ -38,6 +36,7 @@
       <mask>stat*</mask>
       <mask>stat.php</mask>
       <mask>*report*</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
