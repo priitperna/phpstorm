@@ -5,9 +5,8 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="NO-INDIA" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*kbij*" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
       <mask>po</mask>
       <mask>pol</mask>
       <mask>pola</mask>
@@ -37,6 +36,7 @@
       <mask>stat.php</mask>
       <mask>*report*</mask>
       <mask>*.php</mask>
+      <mask>*kbij*</mask>
     </recentFileMasks>
   </component>
 </application>
