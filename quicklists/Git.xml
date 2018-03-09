@@ -1,0 +1,6 @@
+<list display="Git">
+  <action id="Git.Pull" />
+  <action id="Git.Merge" />
+  <action id="ChangesView.Revert" />
+  <action id="Git.Branches" />
+</list>
