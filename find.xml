@@ -5,9 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="NO-INDIA" />
-    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>poland</mask>
       <mask>ind</mask>
       <mask>inde</mask>
       <mask>index</mask>
@@ -37,6 +35,7 @@
       <mask>*comments*</mask>
       <mask>*investor*</mask>
       <mask>*.php</mask>
+      <mask>*investors*</mask>
     </recentFileMasks>
   </component>
 </application>
