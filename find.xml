@@ -34,8 +34,8 @@
       <mask>*test*</mask>
       <mask>*comments*</mask>
       <mask>*investor*</mask>
-      <mask>*.php</mask>
       <mask>*investors*</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
