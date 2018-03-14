@@ -5,8 +5,8 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="NO-INDIA" />
+    <option name="FILE_MASK" value="*app_save*" />
     <recentFileMasks>
-      <mask>ind</mask>
       <mask>inde</mask>
       <mask>index</mask>
       <mask>index*</mask>
@@ -36,6 +36,7 @@
       <mask>*investor*</mask>
       <mask>*investors*</mask>
       <mask>*.php</mask>
+      <mask>*app_save*</mask>
     </recentFileMasks>
   </component>
 </application>
