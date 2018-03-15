@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="NO-INDIA" />
     <option name="defaultScopeName" value="NO-INDIA" />
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="NO-INDIA" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*test*" />
     <recentFileMasks>
       <mask>inde</mask>
       <mask>index</mask>
@@ -33,12 +31,12 @@
       <mask>stat.php</mask>
       <mask>*report*</mask>
       <mask>*kbij*</mask>
-      <mask>*test*</mask>
       <mask>*comments*</mask>
       <mask>*investor*</mask>
       <mask>*investors*</mask>
       <mask>*app_save*</mask>
       <mask>*.php</mask>
+      <mask>*test*</mask>
     </recentFileMasks>
   </component>
 </application>
