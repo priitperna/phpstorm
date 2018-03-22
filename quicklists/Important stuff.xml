@@ -1,0 +1,8 @@
+<list display="Important stuff">
+  <action id="Git.Pull" />
+  <action id="Git.Branches" />
+  <action id="ChangesView.Revert" />
+  <action id="Git.Stash" />
+  <action id="Git.Unstash" />
+  <action id="tasks.switch" />
+</list>
