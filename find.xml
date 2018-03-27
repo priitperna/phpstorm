@@ -5,7 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="NO-INDIA" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>index</mask>
       <mask>index*</mask>
@@ -35,8 +35,8 @@
       <mask>*app_save*</mask>
       <mask>*test*</mask>
       <mask>*compose*</mask>
-      <mask>*.php</mask>
       <mask>*.sql</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
