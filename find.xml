@@ -3,42 +3,8 @@
     <option name="customScope" value="Finland" />
     <option name="defaultScopeName" value="Finland" />
     <option name="fromCursor" value="false" />
-    <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Finland" />
     <option name="FILE_MASK" value="*.php" />
-    <recentFileMasks>
-      <mask>index</mask>
-      <mask>index*</mask>
-      <mask>*</mask>
-      <mask>*.p</mask>
-      <mask>*.s</mask>
-      <mask>*.ph</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.xsd</mask>
-      <mask>*php</mask>
-      <mask>*.js</mask>
-      <mask>*credit*</mask>
-      <mask>*inst*</mask>
-      <mask>*pika*</mask>
-      <mask>*export*</mask>
-      <mask>*export_codes*</mask>
-      <mask>export*</mask>
-      <mask>media*</mask>
-      <mask>stat*</mask>
-      <mask>stat.php</mask>
-      <mask>*report*</mask>
-      <mask>*kbij*</mask>
-      <mask>*comments*</mask>
-      <mask>*investor*</mask>
-      <mask>*investors*</mask>
-      <mask>*app_save*</mask>
-      <mask>*test*</mask>
-      <mask>*compose*</mask>
-      <mask>*.sql</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
   </component>
 </application>
