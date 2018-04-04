@@ -3,10 +3,20 @@
     <option name="customScope" value="Finland" />
     <option name="defaultScopeName" value="Finland" />
     <option name="fromCursor" value="false" />
-    <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Finland" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*ipost_print_reminders*" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*ipost_send*</mask>
+    <mask>*ipost_print_reminders*</mask>
   </component>
 </application>
