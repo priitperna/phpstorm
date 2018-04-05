@@ -3,9 +3,10 @@
     <option name="customScope" value="Finland 3x" />
     <option name="defaultScopeName" value="Finland 3x" />
     <option name="fromCursor" value="false" />
+    <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Finland 3x" />
-    <option name="FILE_MASK" value="*ipost_print_remin*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
