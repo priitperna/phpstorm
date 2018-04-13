@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="NO-INDIA" />
-    <option name="defaultScopeName" value="NO-INDIA" />
+    <option name="customScope" value="Finland 3x" />
+    <option name="defaultScopeName" value="Finland 3x" />
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="SEARCH_SCOPE" value="NO-INDIA" />
+    <option name="SEARCH_SCOPE" value="Finland 3x" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
