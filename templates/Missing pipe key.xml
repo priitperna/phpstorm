@@ -1,0 +1,12 @@
+<templateSet group="Missing pipe key">
+  <template name="=Z" value="=&gt; " shortcut="SPACE" description="convert to =&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="-Z" value="-&gt;" description="convert to -&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

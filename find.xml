@@ -1,10 +1,26 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Finland" />
-    <option name="defaultScopeName" value="Finland" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="SEARCH_SCOPE" value="Finland" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*ipost_send*</mask>
+    <mask>*ipost_print_reminders*</mask>
+    <mask>*ipost_print_alert*</mask>
+    <mask>*ipost_print_remin*</mask>
+    <mask>*.sql</mask>
+    <mask>app_exec_f*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
