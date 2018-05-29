@@ -4,12 +4,7 @@
       <configuration>
         <option name="apiUrl" value="tcp://localhost:2375" />
         <option name="pathMappings">
-          <list>
-            <DockerPathMappingImpl>
-              <option name="localPath" value="C:\AASA\crm" />
-              <option name="virtualMachinePath" value="/CRM" />
-            </DockerPathMappingImpl>
-          </list>
+          <list />
         </option>
       </configuration>
     </remote-server>
