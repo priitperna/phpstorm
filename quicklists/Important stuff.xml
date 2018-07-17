@@ -4,5 +4,5 @@
   <action id="ChangesView.Revert" />
   <action id="Git.Stash" />
   <action id="Git.Unstash" />
-  <action id="tasks.switch" />
+  <action id="Git.ResolveConflicts" />
 </list>
