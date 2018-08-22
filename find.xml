@@ -5,6 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,8 +19,8 @@
     <mask>*ipost_print_alert*</mask>
     <mask>*ipost_print_remin*</mask>
     <mask>app_exec_f*</mask>
-    <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
