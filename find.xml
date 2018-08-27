@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="fromCursor" value="false" />
+    <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,7 +22,7 @@
     <mask>*ipost_print_remin*</mask>
     <mask>app_exec_f*</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.sql</mask>
+    <mask>*.php</mask>
   </component>
 </application>
