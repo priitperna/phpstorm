@@ -1,0 +1,8 @@
+<templateSet group="Twig">
+  <template name="echo" value="{{ &quot;$VARIABLE$&quot; }}&#10;" description="echo variable" toReformat="true" toShortenFQNames="false">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
