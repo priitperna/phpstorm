@@ -5,7 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*ServiceTest*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,5 +28,6 @@
     <mask>*Test*</mask>
     <mask>*cron*</mask>
     <mask>*.php</mask>
+    <mask>*ServiceTest*</mask>
   </component>
 </application>
