@@ -7,7 +7,7 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*Test*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,9 +27,9 @@
     <mask>*test*</mask>
     <mask>*Provider*</mask>
     <mask>*.twig</mask>
-    <mask>*Test*</mask>
     <mask>*cron*</mask>
     <mask>*ServiceTest*</mask>
     <mask>*.php</mask>
+    <mask>*Test*</mask>
   </component>
 </application>
