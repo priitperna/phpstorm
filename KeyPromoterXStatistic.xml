@@ -1,0 +1,14 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Symbol...">
+        <Item>
+          <IdeaActionID>GotoSymbol</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+N'</ShortCut>
+          <Description>Symbol...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
