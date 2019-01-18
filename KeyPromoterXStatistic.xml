@@ -73,6 +73,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'phpunit.xml.dist (PHPUnit)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'phpunit.xml.dist (PHPUnit)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Symbol...">
         <Item>
           <IdeaActionID>GotoSymbol</IdeaActionID>
