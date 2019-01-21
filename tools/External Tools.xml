@@ -2,7 +2,7 @@
   <tool name="Infection" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="docker-compose" />
-      <option name="PARAMETERS" value="exec -T phpunit bash -c &quot;/CRM/i.sh '$FileNameWithoutExtension$' '$FilePathRelativeToProjectRoot$'&quot;" />
+      <option name="PARAMETERS" value="exec -T phpunit bash -c &quot;/CRM/infection.sh '$FileNameWithoutExtension$' '$FilePathRelativeToProjectRoot$'&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
