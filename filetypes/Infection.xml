@@ -8,7 +8,6 @@
       <option name="NUM_POSTFIXES" value="" />
     </options>
     <keywords ignore_case="true" />
-    <keywords2 />
     <keywords3 keywords="+;+ new;[*]" />
     <keywords4 keywords="-;- original" />
   </highlighting>
