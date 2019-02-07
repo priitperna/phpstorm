@@ -198,7 +198,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Search (PHPUnit)'">
@@ -294,7 +294,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>101</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
