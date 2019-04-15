@@ -20,7 +20,6 @@
     <mask>*ipost_print_alert*</mask>
     <mask>*ipost_print_remin*</mask>
     <mask>app_exec_f*</mask>
-    <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>*Test.php</mask>
     <mask>*test*</mask>
@@ -32,5 +31,6 @@
     <mask>*.twig</mask>
     <mask>*test*.php</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
