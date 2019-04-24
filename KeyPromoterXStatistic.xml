@@ -166,7 +166,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Table...">
@@ -494,6 +494,14 @@
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
           <ShortCut>'Alt+Shift+F10'</ShortCut>
           <Description>Run...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="SQL Generator...">
+        <Item>
+          <IdeaActionID>DatabaseView.SqlGenerator</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+G'</ShortCut>
+          <Description>SQL Generator...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
