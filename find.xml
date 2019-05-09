@@ -30,10 +30,10 @@
     <mask>*cron*</mask>
     <mask>*ServiceTest*</mask>
     <mask>*Test*</mask>
-    <mask>*.sql*</mask>
     <mask>*.twig</mask>
     <mask>*test*.php</mask>
     <mask>*.js</mask>
+    <mask>*.sql*</mask>
     <mask>*.php</mask>
   </component>
 </application>
