@@ -1,14 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Finland 3x" />
-    <option name="defaultScopeName" value="Finland 3x" />
+    <option name="customScope" value="No vendor" />
+    <option name="defaultScopeName" value="No vendor" />
     <option name="fromCursor" value="false" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Finland 3x" />
+    <option name="SEARCH_SCOPE" value="No vendor" />
     <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
