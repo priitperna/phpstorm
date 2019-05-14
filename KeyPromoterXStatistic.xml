@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2312</Count>
+          <Count>2315</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>79</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
