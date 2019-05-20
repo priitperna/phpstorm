@@ -25,6 +25,14 @@
           <Count>63</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Cancel Query">
+        <Item>
+          <IdeaActionID>Console.TableResult.Cancel</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Cancel Query</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Cancel Running Statements">
         <Item>
           <IdeaActionID>Console.Jdbc.Terminate</IdeaActionID>
@@ -86,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2437</Count>
+          <Count>2438</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
