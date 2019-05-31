@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>93</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cancel Query">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2576</Count>
+          <Count>2582</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -254,7 +254,7 @@
           <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Down'</ShortCut>
           <Description>Next Page</Description>
-          <Count>12</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -270,6 +270,14 @@
           <IdeaActionID>IntroduceParameter</IdeaActionID>
           <ShortCut>'Ctrl+Alt+P'</ShortCut>
           <Description>Parameter...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Previous Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.PreviousPage</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Up'</ShortCut>
+          <Description>Previous Page</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
