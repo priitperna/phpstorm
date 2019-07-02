@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2777</Count>
+          <Count>2782</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -406,6 +406,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'InstallmentTableTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'InstallmentTableTest.testCollInt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'InstallmentTableTest.testCollInt'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -782,7 +790,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>559</Count>
+          <Count>560</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
