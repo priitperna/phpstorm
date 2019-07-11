@@ -673,6 +673,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ApplicationServiceTest.testGetNextDueDate'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ApplicationServiceTest.testGetNextDueDate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Authorization'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
