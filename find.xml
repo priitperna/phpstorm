@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="fromCursor" value="false" />
+    <option name="showResultsInSeparateView" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,7 +21,6 @@
     <mask>*ipost_print_alert*</mask>
     <mask>*ipost_print_remin*</mask>
     <mask>app_exec_f*</mask>
-    <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>*Test.php</mask>
     <mask>*test*</mask>
@@ -26,9 +28,10 @@
     <mask>*cron*</mask>
     <mask>*ServiceTest*</mask>
     <mask>*Test*</mask>
-    <mask>*.sql*</mask>
     <mask>*.twig</mask>
     <mask>*test*.php</mask>
+    <mask>*.js</mask>
+    <mask>*.sql*</mask>
     <mask>*.php</mask>
   </component>
 </application>
