@@ -7,7 +7,7 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*provider*" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -31,8 +31,8 @@
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*test*.php</mask>
-    <mask>*.php</mask>
     <mask>*.sql*</mask>
     <mask>*provider*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
