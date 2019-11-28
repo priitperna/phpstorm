@@ -4,4 +4,7 @@
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="SECONDARY_FONT_FAMILY" value="Lucida Sans Typewriter" />
   </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_HERE_DOCS" value="true" />
+  </component>
 </application>
