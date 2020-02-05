@@ -32,7 +32,7 @@
     <mask>*test*.php</mask>
     <mask>Settings.php</mask>
     <mask>*.twig</mask>
-    <mask>*.sql*</mask>
     <mask>*.php</mask>
+    <mask>*.sql*</mask>
   </component>
 </application>
