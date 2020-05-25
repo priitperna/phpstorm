@@ -1,7 +1,6 @@
 <application>
   <component name="GitToolBoxAppSettings2">
     <option name="behindTracker" value="false" />
-    <option name="showStatusWidget" value="false" />
     <option name="decorationParts">
       <list>
         <DecorationPartConfig>
@@ -21,5 +20,7 @@
       </list>
     </option>
     <option name="previousVersionMigrated" value="true" />
+    <option name="showStatusWidget" value="false" />
+    <option name="version" value="2" />
   </component>
 </application>
