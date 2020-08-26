@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="batch_6001014_20200819" type="PLAIN_TEXT" />
       <mapping pattern="random_seed" type="PLAIN_TEXT" />
       <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping ext="pgp" type="PLAIN_TEXT" />
