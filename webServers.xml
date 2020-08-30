@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3351eba4-c423-47e0-9b4e-18972c0bf710" name="Mitsu" url="http://www.mitsubishikodusoojus.ee">
+        <fileTransfer host="www.mitsubishikodusoojus.ee" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
