@@ -8,6 +8,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="4169ca79-3ad6-45f9-a55c-5c0490c47cb5" name="Kliimaseade" url="http://www.kliimaseade.ee">
+        <fileTransfer host="www.kliimaseade.ee" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
