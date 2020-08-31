@@ -1,0 +1,20 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3351eba4-c423-47e0-9b4e-18972c0bf710" name="Mitsu" url="http://www.mitsubishikodusoojus.ee">
+        <fileTransfer host="www.mitsubishikodusoojus.ee" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4169ca79-3ad6-45f9-a55c-5c0490c47cb5" name="Kliimaseade" url="http://www.kliimaseade.ee">
+        <fileTransfer host="www.kliimaseade.ee" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
