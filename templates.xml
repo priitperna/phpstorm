@@ -1,0 +1,512 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_if" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_elif" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_select" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_case" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_for" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_while" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_until" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_function" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string is empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number not equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less or equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater or equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file not empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file readable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file writable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file executable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file equals" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file newer" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file older" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_path exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_directory exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_command exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@elseif" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@for" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@foreach" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@if" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@ifelse" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@include" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@layout" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@section" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@while" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@yield" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@extends" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@parent" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@unless" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@forelse" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@show" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@component" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@slot" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@json" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@verbatim" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@isset" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@auth" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@guest" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@switch($i)" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@continue" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@break" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@includeIf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@includeWhen" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@each" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@push" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@stack" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Blade" />
+          <option name="key" value="@inject" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="transform" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="all" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="collapse" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="count" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="filter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="first" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="forget" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="get" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="groupBy" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="has" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="implode" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="toArray" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="take" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="whereNotIn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="whereIn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="where" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="whereq" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="toJson" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="orWhere" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="orWhereHas" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="whereHas" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="when" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="fill" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="isEmpty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="isNotEmpty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="paginate" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="simplePaginate" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="orderBy" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="getOriginal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="getRelationValue" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="getAttributeFromArray" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="contains" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="tap" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="whereDoesntHave" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="doesntHave" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="orWhereDoesntHave" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="orHas" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="orDoesntHave" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="hasMorph" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="orHasMorph" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="doesntHaveMorph" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="orDoesntHaveMorph" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="whereHasMorph" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="orWhereHasMorph" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="whereDoesntHaveMorph" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Collection" />
+          <option name="key" value="orWhereDoesntHaveMorph" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="geta" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="if" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="switch" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="ife" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="hasOne" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="belongsTo" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="hasMany" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="belongsToMany" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="hasManyThrough" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="morphTo" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="morphMany" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="seta" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="funcq" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="else" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="elseif" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="func" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="fori" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="dbbeginTransaction" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Laravel-Php" />
+          <option name="key" value="dbtransaction" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>
