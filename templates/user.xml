@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="fn" value="function($PARAM$){&#10;  return $RESULT$;&#10;}" description="closure" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RESULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
