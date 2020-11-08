@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.example.org/xsds/example.xsd" location="C:/CODELAB/BrokerConnection" />
+  </component>
+</application>
