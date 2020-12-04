@@ -35,7 +35,7 @@
     <mask>*.sql*</mask>
     <mask>*.xsd</mask>
     <mask>*.scss</mask>
-    <mask>*.blade.php</mask>
     <mask>*.php</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
