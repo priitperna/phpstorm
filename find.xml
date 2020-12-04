@@ -34,8 +34,8 @@
     <mask>*.twig</mask>
     <mask>*.sql*</mask>
     <mask>*.xsd</mask>
-    <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.blade.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
