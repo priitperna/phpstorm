@@ -1,14 +1,17 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="fromCursor" value="false" />
     <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xsd" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -35,9 +38,9 @@
     <mask>Settings.php</mask>
     <mask>*.twig</mask>
     <mask>*.sql*</mask>
-    <mask>*.xsd</mask>
     <mask>*.scss</mask>
     <mask>*.blade.php</mask>
     <mask>*.php</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
